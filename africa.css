@@ -1,0 +1,27 @@
+p{
+	color:red;
+}
+
+#para1{
+	color:yellow;
+	border-top-style:dotted;
+	border-width: 4px;
+	border-color: red;
+}
+.colortext
+{
+color:green;
+}
+.one{
+	border-width: 10px;
+	border-color: green;
+	border-style: solid;
+}
+h1{
+	color:orange;
+	background-color: lightblue;
+}
+body{
+	background-color: linen;
+	background-image: url("giphy.gif")
+}
