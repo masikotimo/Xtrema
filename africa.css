@@ -23,5 +23,8 @@ h1{
 }
 body{
 	background-color: linen;
-	background-image: url("giphy.gif")
+	background-image: url("giphy.gif");
+	width: 25%;
+	border: 1px solid green;
+	padding: 10px;
 }
